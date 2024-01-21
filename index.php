@@ -7,7 +7,7 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600&amp;display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Leckerli+One&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
-  <favicon href="favicon.ico">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
   <script src="js/uikit.js"></script>
 </head>
 
