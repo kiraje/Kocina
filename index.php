@@ -2,11 +2,12 @@
 <!DOCTYPE html><html lang="en-gb" dir="ltr"><head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Kocima | Cooking Recipe </title>
+  <title> AllRecipe | Cooking Recipe </title>
   <link rel="shortcut icon" type="image/png" href="images/favicon.png">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600&amp;display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Leckerli+One&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
+  <favicon href="favicon.ico">
   <script src="js/uikit.js"></script>
 </head>
 
