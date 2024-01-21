@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/filter.php' ?>
 <!DOCTYPE html><html lang="en-gb" dir="ltr"><head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
