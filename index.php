@@ -13,7 +13,7 @@
 </head>
 
 <body>
-
+<script async src="http://localhost:3000/script.js" data-website-id="dbf974e9-2452-4dcc-a351-ffa8f8b258e3"></script>
 <nav class="uk-navbar-container uk-letter-spacing-small">
   <div class="uk-container">
     <div class="uk-position-z-index" data-uk-navbar="">
