@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="css/main.css">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <script src="js/uikit.js"></script>
+  <meta name='affelios-site-verification' value='affelios-site-verification=c36c8774-e2ab-47f5-bea2-f4a2116ce9fb' />
 </head>
 
 <body>
